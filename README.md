@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @EshanRubbani<br>👀 I’m interested in Cyber Security.<br>🌱 I’m currently woeking as Flutter Developer.<br>💞️ I’m looking to collaborate on Flutter<br>📫 Mail me : eshanrubbani@gmail.com
+👋 Hi, I’m @EshanRubbani<br>👀 I’m interested in Cyber Security.<br>🌱 I’m currently working as Flutter Developer.<br>💞️ I’m looking to collaborate on Flutter<br>📫 Mail me : eshanrubbani@gmail.com
 
 
 ## 🌐 Socials:
